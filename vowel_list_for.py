@@ -17,3 +17,6 @@ if is_vowel:
 else:
     print(f"'{char}' is not a vowel.")
 
+
+
+#This program should be run using python3 prgram_name.py

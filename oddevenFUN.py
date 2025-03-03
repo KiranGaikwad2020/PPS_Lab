@@ -7,3 +7,5 @@ def evenodd():
 		print("\n Entered number {} is odd number".format(number))
 
 evenodd()
+
+#This program should be run using python3 prgram_name.py
