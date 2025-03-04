@@ -1,4 +1,4 @@
-#Assignment Details
+# Assignment Details
 1. Arithmetical Operation (arithmetical.py)
 2. Temprature conversion Farheneit to Celcius (tempconv.py)
 3. Identification vowel charcters (vowel_list_for.py)
