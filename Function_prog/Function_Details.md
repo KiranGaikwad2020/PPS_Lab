@@ -13,3 +13,11 @@ This directory contians programs developed on python function concept:
    - Execution of program is as follows:
      
    - ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/blob/Dev/images/multiple_return_prog_output.png)
+
+3. **keywordarg.py:**
+   - This program demonstrates the use of keyword arguments.
+   - With this developed function, function call with keyword arguments and function call without keyword arguments is tested.
+   - Execution shows the expected result.
+  
+   - ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/blob/Dev/images/keywordarg_prog_output.png)
+   
