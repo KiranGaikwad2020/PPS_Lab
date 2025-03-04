@@ -27,3 +27,15 @@ This directory contians programs developed on python function concept:
    - Following execution validates the use of the lambda function
   
    - ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/blob/Dev/images/lambdatest_prog_output.png)
+
+5. **oddevenFUN.py**
+   - This program demonstrates the use of function to identify the given number is even or odd
+   - Execution shows the results
+  
+   - ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/blob/Dev/images/oddevenFUN_prog_output.png)
+
+6. **tempconvFUN.py**
+   - This program demonstrates the implementation of program to convert the tempratures enterd by the use in Farheneit to Celcius using function.
+   - Following output shows the achieved result
+  
+   - ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/blob/Dev/images/tempconvFUN_prog_output.png)
