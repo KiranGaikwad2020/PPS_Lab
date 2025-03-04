@@ -6,4 +6,6 @@ Here we will be having understanding on following topis:
 - Equality check of two strings
 - Check String palindrome
 - Check substring of a string
+- Upper case conversion
+- Lower case conversion
 
