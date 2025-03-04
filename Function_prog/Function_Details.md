@@ -5,5 +5,5 @@ This directory contians programs developed on python function concepts
   - This program demonstrates the use of python function with multiple returns values.
   - The function definition can be defined at the start or anywhere in the program but before the function call.
   - Execution demonstrates the use of python function
-  -  ![Application Execution ](images/addmul_prog_output.png)
+  -  ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/images/addmul_prog_output.png)
 3. 
