@@ -20,4 +20,10 @@ This directory contians programs developed on python function concept:
    - Execution shows the expected result.
   
    - ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/blob/Dev/images/keywordarg_prog_output.png)
-   
+
+4. **lambdatest.py**
+   - This program demosntrates the use of the lambda function in python.
+   - Here sum function is defined to perform addition of two numbers using lambda function.
+   - Following execution validates the use of the lambda function
+  
+   - ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/blob/Dev/images/lambdatest_prog_output.png)
