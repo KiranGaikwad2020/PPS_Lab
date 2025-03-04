@@ -40,5 +40,5 @@
      
    - Follwing output demosntrates the sum and average of numbers in between the range provided by the user.
   
-     ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/blob/Dev/images/sum_avg_between_prog_output.png)
+     ![Application Execution](https://github.com/KiranGaikwad2020/PPS_Lab/blob/Dev/images/sum_Avg_between_prog_output.png)
    
