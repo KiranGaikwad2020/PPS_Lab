@@ -9,5 +9,5 @@ print("\n The concatenation of city and state strings is: {}".format(citystate))
 print("\n Length of concatenated string is: {}".format(len(citystate)))
 print("\n Converted the citystate string to Upper Case as: {}".format(citystate.upper()))
 print("\n Converted the citystate string to Lower Case as: {}".format(citystate.lower()))
-#print("\n Reverse of the citystate string is: {}".format(citystate.reverse()))
+
 
