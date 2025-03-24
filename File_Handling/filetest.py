@@ -1,6 +1,6 @@
 #This program demosntrates the file handling operations
 
-#1. Open()
+#1. Using Open() to open a file and read() to read the entire file
 def openfiletest():
 	filept=open("/home/comp625/test.py","r")
 	if(filept!=0):
@@ -11,9 +11,30 @@ def openfiletest():
 		filept.close()
 	else:
 		print("\n File is not opened in read mode")
+
+def readlinetest():
+	filept=open("/home/comp625/test.py","r")
+	if(filept!=0):
+		print("\n File is opened in read mode and first line from original contents is \n")
+		print("***********************************************************")
+		print(filept.readline())
+		print("***********************************************************")
+		filept.close()
+	else:
+		print("\n File is not opened in read mode")	
+		
+def readlinestest():
+	filept=open("/home/comp625/test.py","r")
+	if(filept!=0):
+		print("\n File is opened in read mode and original contents are \n")
+		print("***********************************************************")
+		print(filept.readlines())
+		print("***********************************************************")
+		filept.close()
+	else:
+		print("\n File is not opened in read mode")
 	
-	
-#2. Close()
+#2. Using open(), read the file read(), write the contents to the file write() and close the file Close()
 def closefiletest():
 	fileopt=open("/home/comp625/vote2.py","r+")
 
@@ -38,5 +59,7 @@ def closefiletest():
 	print("******************************************************************")
 	fileopt.close()
 	
+#readlinetest()
+readlinestest()
 #openfiletest()			
-closefiletest()
+#closefiletest()
